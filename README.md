@@ -101,7 +101,7 @@ sudo dnf install wf-recorder
 ## installation
 
 ```bash
-git clone https://github.com/yourusername/rewind
+git clone https://github.com/JohnSmithTheCutie/Rewind-Clipper
 cd rewind
 chmod +x install.sh
 ./install.sh
