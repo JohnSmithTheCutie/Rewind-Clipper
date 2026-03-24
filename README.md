@@ -106,6 +106,16 @@ cd rewind
 chmod +x install.sh
 ./install.sh
 ```
+or
+
+```bash
+download the release to you're downloads folder
+cd ~/Downloads
+tar -xzf rewind.tar.gz
+cd rewind
+chmod +x install.sh
+./install.sh
+```
 
 the installer does the following automatically:
 
