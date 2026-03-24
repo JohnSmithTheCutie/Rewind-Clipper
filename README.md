@@ -1,6 +1,6 @@
 # Rewind-Clipper
 Clipping software with a webUI for Arch, Debian/Ubuntu, Fedora, openSUSE based distros
-
+Any suggestions/bugs email me at JohnSmith3322110007@proton.me
 # rewind
 
 instant replay buffer for Linux. keep the last N minutes of your screen always buffered — save a clip whenever something worth keeping happens.
